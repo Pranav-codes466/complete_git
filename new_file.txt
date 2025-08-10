@@ -1,6 +1,6 @@
 hello 
 everyone 
-this is a complete git process
+this is a complete gti procsse
 scm 2025 summer sem
 amity university
 bengaluru
